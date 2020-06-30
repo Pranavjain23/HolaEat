@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HolaEat</string>
+    <string name="preference_file_name">HolaEat Preferences</string>
+    <string name="home">Home</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dish_name">Dish Name</string>
+    <string name="mobile_and_email">Enter your Registered mobile no and Email below :</string>
+    <string name="go_to_cart">Go To Cart</string>
+    <string name="place_your_order">Place Your Order</string>
+</resources>
