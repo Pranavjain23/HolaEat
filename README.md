@@ -30,8 +30,7 @@ Book a table to avoid queues
 Avoid standing in waiting queues at restaurants by booking a table in advance.
 
 
-## Demo Images
-### AppImages
+## Application Images
  ![HolaEat - AppImages](https://github.com/Pranavjain23/HolaEat/raw/master/images/1.png)
  ![](https://github.com/Pranavjain23/HolaEat/raw/master/images/2.png)
  ![](https://github.com/Pranavjain23/HolaEat/raw/master/images/3.png)
