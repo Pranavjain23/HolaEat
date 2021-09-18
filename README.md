@@ -1,7 +1,7 @@
 # HolaEat
 HolaEat - Food Delivery Application
 
-Whether you’re looking for biryani to feed your desi cravings, soul comforting pizzas and burgers, or even a salad with a cup of chai or coffee, Zomato is the only app you need for the quickest doorstep delivery of your favourites. Discover the best around you in no time – only on the HolaEat app.
+Whether you’re looking for biryani to feed your desi cravings, soul comforting pizzas and burgers, or even a salad with a cup of chai or coffee, Zomato is the only app you need for the quickest doorstep delivery of your favourites. Discover the best around you in no time – only on the HolaEat app!!
 
 Order food online
 With online food delivery across 500+ cities, you can get your favourites delivered at your doorstep within minutes.
